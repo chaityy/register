@@ -1,9 +1,9 @@
 {
-    "owner": {
-        "username": "Chaitanyajain12",
-        "email": "gorgonfweman@outlook.com"
-    },
-    "records": {
-        "CNAME": "https://chaityy.netlify.app"
-    }
+  "owner": {
+    "username": "chaityy",
+    "email": "gorgonfweman@outlook.com"
+  },
+  "records": {
+    "A": ["75.2.60.5"]
+  }
 }
